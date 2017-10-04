@@ -1,0 +1,16 @@
+{
+  "name": "ajax-practice",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "carlo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.0",
+    "eslint": "^4.6.1",
+    "express": "^4.15.4",
+    "pg": "^7.3.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
